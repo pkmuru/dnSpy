@@ -1,6 +1,4 @@
 .vs/
-bin/
-obj/
 *.user
 _ReSharper*/
 *.ReSharper
